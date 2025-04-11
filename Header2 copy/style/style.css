@@ -1,0 +1,302 @@
+ 
+
+ 
+
+body { 
+
+    font-family: "Arial", sans-serif; 
+    
+    } 
+    
+    /* Styling the Page Container */ 
+    
+    #page_container { 
+    
+    width: 1700px; 
+    
+    margin: 0 auto; 
+    
+    border: 1px solid black; 
+    
+    box-shadow: 0px 0px 48px 16px rgba(0,0,0, 0.175); 
+    
+    } 
+    
+     
+    
+    /* Styling the head and elements inside of the head*/ 
+    
+    header { 
+    
+    background-color: #ffffff; 
+     
+    
+    } 
+    
+    #logo2 { 
+    
+    width: 200px; 
+    
+    float: left; 
+    
+    padding: 15px 0 20px 40px; 
+     
+    
+    } 
+    
+    #logo2 img { 
+    
+    width: 150px; 
+    
+    } 
+    
+    #page_title { 
+    
+    width: 1000px; 
+    
+    float: left; 
+    
+    text-align: center; 
+    
+    padding-left: 120px; 
+    
+    padding-top: 25px; 
+    
+    } 
+    
+    nav { 
+    
+    clear: both; 
+    
+    text-align: center; 
+    
+    } 
+    
+    /* Styling the ul in the nav */ 
+    
+    nav ul { 
+    
+    list-style-type: none; 
+    
+     margin: 0; 
+    
+    padding: 0; 
+    
+    overflow: hidden; 
+    
+    background-color: rgb(81, 165, 168); 
+    
+    } 
+    
+    /* Stlying the li elements in the nav */ 
+    
+    nav li { 
+    
+    display: inline-block; 
+    
+    } 
+    
+    /* Styling the li and a tags in the nav*/ 
+    
+    nav li a { 
+    
+    display: block; 
+    
+    text-decoration: none; 
+    
+    text-align: center; 
+    
+    padding: 14px 30px; 
+    
+    font-size: 30px; 
+    
+    color: #ffffff; 
+    
+    } 
+    
+    nav li a:hover { 
+    
+    background-color: rgb(198, 12, 48); 
+    
+    } 
+    
+    /* About Queenstown Section Styling */ 
+    
+    #about_queenstown { 
+    
+    clear: both; 
+    
+    overflow: hidden; 
+    
+    padding-bottom: 5px; 
+    
+    font-size: 30px;
+    
+    } 
+    
+     
+    
+    #q_town_intro { 
+    
+    margin-left: 5px; 
+    
+    float: left; 
+    
+    width: 900px; 
+    
+    padding-left: 10px; 
+    font-size: 20px;
+    } 
+    
+    #q_town_intro p { 
+    
+    font-size: 20pt; 
+    
+    text-align: justify; 
+    
+    } 
+
+    #q_town_intro2 { 
+    
+        margin-left: 5px; 
+        
+        float: left; 
+        
+        width: 900px; 
+        
+        padding-left: 10px;
+         
+        font-size: 20px;
+        } 
+        
+        #q_town_intro2 p { 
+        
+        font-size: 20pt; 
+        
+        text-align: justify; 
+        
+        } 
+
+        #q_town_intro2_image {
+
+            width: 100px; 
+    
+            float: left ;
+            
+            padding-top: 10px; 
+            
+            margin-left: 20px; 
+        
+        }
+    
+    /* Lake Wakatipu Image below */ 
+    
+    #rangitoto_image { 
+    
+    width: 100px; 
+    
+    float: left ;
+    
+    padding-top: 10px; 
+    
+    margin-left: 20px; 
+
+    
+    
+    }
+    
+    #rangitoto_image img {
+
+        width: 350px;
+    }
+
+    #lake_wakatipu_image img { 
+    
+    width: 350px; 
+    float: left 100px;
+    
+    } 
+    
+    footer { 
+    
+    background-color: rgba(3, 86, 66, 0.25); 
+    
+    clear: both; 
+    
+    overflow: hidden; 
+    
+    } 
+    
+    footer li { 
+    
+    list-style-type: none; 
+    
+    } 
+    
+    footer a { 
+    
+    text-decoration: none; 
+    
+    color: rgb(0, 0, 0); 
+    
+    } 
+    
+    #links { 
+    
+    width: 450px; 
+    
+    float: left; 
+    
+    padding-left: 100px; 
+    
+    } 
+    
+    #links h4 { 
+    
+    padding-left: 40px; 
+    
+    } 
+    
+    #menu h4 { 
+    
+     padding-left: 39px; 
+    
+    } 
+    
+    #menu { 
+    
+    width: 450px; 
+    
+    float: left; 
+    
+    padding-left: 100px; 
+    
+    } 
+    
+    #socials { 
+    
+    float: left; 
+    
+    width: 450px; 
+    
+    padding-left: 100px; 
+
+    font-size: 20px;
+    
+    } 
+    
+    #socials ul { 
+    
+    list-style-type: none; 
+    
+    padding: 0; 
+    
+    } 
+    
+    #socials li { 
+    
+    padding: 0 12px 0 0; 
+    
+    display: inline; 
+    
+    } 
